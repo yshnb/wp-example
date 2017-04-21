@@ -1,3 +1,6 @@
 [submodule "some-theme"]
-	path = ./wp-content/themes/some-theme
+	path = wp-content/themes/some-theme
+	url = git@github.com:yshnb/wp-some-theme.git
+[submodule "wp-content/themes/some-theme"]
+	path = wp-content/themes/some-theme
 	url = git@github.com:yshnb/wp-some-theme.git
